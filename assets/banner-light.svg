@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 168" role="img" aria-label="Victor Ramos, AI Platform Engineer. Enterprise agentic systems: LLM gateways, agent orchestration, MCP tool meshes.">
+  <style>@media (prefers-reduced-motion: reduce) { .anim { display: none; } }</style>
+  <rect x="0.5" y="0.5" width="879" height="167" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+
+  <!-- identity block -->
+  <text x="36" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#0969da">AI PLATFORM ENGINEER</text>
+  <text x="36" y="90" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="700" fill="#1f2328">Victor Ramos</text>
+  <text x="36" y="118" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#59636e">Enterprise agentic systems — gateways · orchestration · MCP meshes</text>
+  <text x="36" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6e7781">cobol → delphi → java → php/ts → python · 20+ yrs in production</text>
+
+  <!-- pipeline motif -->
+  <line x1="596" y1="62" x2="812" y2="62" stroke="#afb8c1" stroke-width="1.5"/>
+  <circle r="3.5" fill="#0969da" class="anim">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M596,62 L812,62"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="596" cy="62" r="5.5" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+  <circle cx="668" cy="62" r="5.5" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+  <circle cx="740" cy="62" r="5.5" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+  <circle cx="812" cy="62" r="5.5" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
+  <text x="596" y="86" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#6e7781">gateway</text>
+  <text x="668" y="86" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#6e7781">planner</text>
+  <text x="740" y="86" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#6e7781">orchestrator</text>
+  <text x="812" y="86" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#6e7781">mcp mesh</text>
+
+  <!-- governance bracket -->
+  <path d="M596,100 L596,108 L812,108 L812,100" fill="none" stroke="#9a6700" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="704" y="126" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#9a6700">cascading rbac · full audit trail</text>
+</svg>
