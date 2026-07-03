@@ -31,7 +31,7 @@ flowchart LR
 | System | What it is | Proof |
 |:--|:--|:--|
 | **Enterprise AI platform**<br><sub>private · a major Brazilian port authority</sub> | Multi-provider LLM gateway · always-on two-stage planner · orchestrator → sub-agent delegation · cascading permissions with a full audit trail | `9` domain MCP servers · `~138` tools · `270+` tests · PHPStan `level 8` · staged deploys |
-| [**`mcp-rbac-profile`**](https://github.com/victorhramos-dev/mcp-rbac-profile)<br><sub>public · v0.1 in progress</sub> | Open spec + TypeScript reference implementation: RBAC-aware delegation for MCP server meshes | the governance layer above, generalized — spec-first: threat model, token format, three-server example mesh |
+| [**`mcp-rbac-profile`**](https://github.com/victorhramos-dev/mcp-rbac-profile)<br><sub>public · v0.1 released</sub> | Open spec + TypeScript reference implementation: RBAC-aware delegation for MCP server meshes | the governance layer above, generalized — spec-first: threat model, token format, three-server example mesh |
 
 ### Stack
 
